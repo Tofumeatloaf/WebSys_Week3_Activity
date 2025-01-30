@@ -1,0 +1,27 @@
+.pic{
+    float: right;
+    margin: 10px;
+    width: 300px;
+    height: auto;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 200px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: left;
+    color: black;
+    margin: -10px;
+}
+
+p {
+    font-weight: lighter;
+    font-style: Arial;
+    color: black;
+}
