@@ -1,0 +1,20 @@
+div ~ p{
+    color: yellow;
+}
+
+p{
+    color: blue;
+}
+h1{
+    font-size: 80px;
+    color: red;
+    align-items: left;
+}
+p{
+    font-weight: lighter;
+    font-style: Arial;
+    color: yellow;
+}
+body{
+    background-color: grey;
+}
