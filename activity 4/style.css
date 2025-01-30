@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: left;
+}
+.container {
+    max-width: 800px;
+    background: white;
+    padding: 20px;
+    text-align: left;
+}
+h1 {
+    color: #333;
+    text-align: left;
+}
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    text-align: left;
+}
+.pic {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 0;
+    right: 500px;
+    margin: 10px;
+}
+.section {
+    margin-bottom: 20px;
+    text-align: left;
+}
+.bold {
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+li {
+    margin-bottom: 5px;
+    text-align: left;
+}
+.bold{
+    text-align: left;
+}
